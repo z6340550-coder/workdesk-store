@@ -1,0 +1,43 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "id": "exam",
+   "name": "EXAM",
+   "version": "1.0",
+   "author": "Workdesk",
+   "description": "Exam revision: flashcards, PDFs, notes, a calculator; no browser.",
+   "pictures": 0,
+   "windows": {
+    "open": "none",
+    "place": "maximized",
+    "start": [
+     "anki"
+    ]
+   },
+   "file": "packs/exam-1.0.wdpack",
+   "size": 660,
+   "sha256": "4cca4fed75f861253660e679b6f606617a8d60084dbc191fdad7284c6f8e4507",
+   "price": 0
+  },
+  {
+   "id": "quran",
+   "name": "QURAN",
+   "version": "1.0",
+   "author": "Workdesk",
+   "description": "Quran reading and study: mushaf and tafsir PDFs, notes, hifz cards.",
+   "pictures": 0,
+   "windows": {
+    "open": "slide",
+    "place": "maximized",
+    "start": [
+     "pdf"
+    ]
+   },
+   "file": "packs/quran-1.0.wdpack",
+   "size": 620,
+   "sha256": "a5e236ad99f32a05ef8e5d518526be46d2dac06196d06651f3ed98229b804a73",
+   "price": 0
+  }
+ ]
+}
